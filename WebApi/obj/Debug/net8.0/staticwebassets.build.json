@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "87swMrFSJdoedHu/5r7sWxCOfwh15Xx7iNxA8HCBigM=",
+  "Source": "WebApi",
+  "BasePath": "_content/WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebApi\\wwwroot",
+      "Source": "WebApi",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\Home Task Maruff\\Examininininini\\WebApi\\wwwroot\\",
+      "BasePath": "_content/WebApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\user\\Desktop\\Home Task Maruff\\Examininininini\\WebApi\\wwwroot\\images\\75f484c7-2178-4760-9939-6539d8491adc.png",
+      "SourceId": "WebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\Home Task Maruff\\Examininininini\\WebApi\\wwwroot\\",
+      "BasePath": "_content/WebApi",
+      "RelativePath": "images/75f484c7-2178-4760-9939-6539d8491adc.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\75f484c7-2178-4760-9939-6539d8491adc.png"
+    },
+    {
+      "Identity": "C:\\Users\\user\\Desktop\\Home Task Maruff\\Examininininini\\WebApi\\wwwroot\\images\\9716eb62-b610-4e8f-9861-67c744474d3c.png",
+      "SourceId": "WebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\Home Task Maruff\\Examininininini\\WebApi\\wwwroot\\",
+      "BasePath": "_content/WebApi",
+      "RelativePath": "images/9716eb62-b610-4e8f-9861-67c744474d3c.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\9716eb62-b610-4e8f-9861-67c744474d3c.png"
+    }
+  ]
+}
